@@ -18,3 +18,5 @@ data set. If variables are not in the correct data type, apply proper type conve
 6. Turn categorical variables into quantitative variables in Python.
 In addition to the codes and outputs, explain every operation that you do in the above steps and
 explain everything that you do to import/read/scrape the data set.
+
+### 2. [Data wrangling II]()

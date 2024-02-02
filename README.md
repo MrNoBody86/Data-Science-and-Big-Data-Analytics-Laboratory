@@ -19,4 +19,14 @@ data set. If variables are not in the correct data type, apply proper type conve
 In addition to the codes and outputs, explain every operation that you do in the above steps and
 explain everything that you do to import/read/scrape the data set.
 
-### 2. [Data wrangling II]()
+### 2. [Data wrangling II](https://github.com/MrNoBody86/Data-Science-and-Big-Data-Analytics-Laboratory/tree/d67248057891be3047398574be00c315a2ab2f91/A2)
+Create an “Academic performance” dataset of students and perform the following operations using
+Python.
+1. Scan all variables for missing values and inconsistencies. If there are missing values and/or
+inconsistencies, use any of the suitable techniques to deal with them.
+2. Scan all numeric variables for outliers. If there are outliers, use any of the suitable
+techniques to deal with them.
+3. Apply data transformations on at least one of the variables. The purpose of this
+transformation should be one of the following reasons: to change the scale for better
+understanding of the variable, to convert a non-linear relation into a linear one, or to
+decrease the skewness and convert the distribution into a normal distribution.

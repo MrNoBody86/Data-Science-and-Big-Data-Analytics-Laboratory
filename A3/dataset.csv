@@ -1,6 +1,6 @@
 customer_id,age,gender,annual_income,spending_score
 1,25,Male,50000,75
-2,30,Female,60000,50
+2,30,Male,60000,50
 3,22,Male,45000,80
 4,35,Female,75000,60
 5,28,Male,55000,70
